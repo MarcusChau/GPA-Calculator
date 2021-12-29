@@ -1,3 +1,13 @@
+    """[summary]
+    This is a GPA calculator implementing a GUI. This is college based and does not factor curves!
+    Author: Marcus Chau
+    Raises:
+        FileNotFoundError: [if file not found, raise exception]
+
+    Returns:
+        [total]: [This is the Gpa calculated]
+    """
+
 from tkinter import *
 from tkinter import ttk
 import json
